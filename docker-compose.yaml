@@ -2,4 +2,4 @@ services:
   static:
     build: .
     ports:
-      - "8080:80"
+      - "3312:80"
